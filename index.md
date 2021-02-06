@@ -1,6 +1,4 @@
-# Dallin Clayton
-
-Welcome to my little site!
+# Welcome to my little site!
 
 [LinkedIn](www.linkedin.com/in/dallinclayton)
 
