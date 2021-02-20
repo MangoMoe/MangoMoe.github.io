@@ -1,6 +1,8 @@
 # Welcome to my little site!
 
-[LinkedIn](www.linkedin.com/in/dallinclayton)
+[LinkedIn](https://www.linkedin.com/in/dallinclayton)
+
+[GitHub](https://github.com/MangoMoe)
 
 ## Projects
 * [Spell text generator for tabletop RPG games](https://colab.research.google.com/drive/1oJ3ME3o4phOEojVfC5ww6U33CukYLKsh?usp=sharing)
